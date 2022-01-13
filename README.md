@@ -33,10 +33,10 @@ Para ello se ha construido el repositorio trajectory_control_node.
    $ rosrun trayectory_control_node trayectory_control_node
    
 # Simulación
-https://youtu.be/FvbQ9OkvrU0
+https://youtu.be/FvbQ9OkvrU0           
 
 
 
-Autores: Alejandro Imaz Caldero y María Jesús Mora García        
 
-Fecha:   14/01/2021
+
+Autores: Alejandro Imaz Caldero y María Jesús Mora García 
