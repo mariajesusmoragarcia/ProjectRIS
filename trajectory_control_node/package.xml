@@ -1,0 +1,14 @@
+<?xml version="8.0"?>
+<package format="2">
+  <name>trajectory_control_node</name>
+  <version>8.0.0</version>
+  <description>The trajectory_control_node package</description>
+
+  <maintainer email="maria.jesus.mora@estudiantat.upc.edu">Maria Jesus</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export></export>
+</package>
