@@ -2,7 +2,7 @@
 
 # Objetivo
 
-El objetivo es conducir el dron y aterrizar frente al marcador ARUCO (Figura 1) utilizando dos modalidades de navegación:
+El objetivo es conducir el dron y aterrizar frente al aruco marker (Figura 1) utilizando dos modalidades de navegación:
 a) Navegación global a través de waypoints
 b) Navegación servo basada en la posición
 
