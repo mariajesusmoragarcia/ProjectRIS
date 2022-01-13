@@ -29,3 +29,9 @@ Para ello se ha construido el repositorio trajectory_control_node.
    
 # Simulación
 https://youtu.be/FvbQ9OkvrU0
+
+
+
+Autores: Alejandro Imaz Caldero
+         María Jesús Mora García 
+Fecha:   14/01/2021
