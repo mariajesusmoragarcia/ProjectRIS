@@ -26,3 +26,6 @@ Para ello se ha construido el repositorio trajectory_control_node.
 
 5. Lanzar nodo trayectory_control_node (en un nuevo terminal)
    $ rosrun trayectory_control_node trayectory_control_node
+   
+# Simulación
+https://youtu.be/FvbQ9OkvrU0
