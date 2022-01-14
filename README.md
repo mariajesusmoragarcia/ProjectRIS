@@ -11,7 +11,7 @@ b) Navegación servo basada en la posición
 ![image](https://user-images.githubusercontent.com/61427246/149408706-aceb4df8-2871-4e8b-839d-2916d205c863.png)   
 Figura 1. Configuración inicial del drone y el marker aruco.
 
-Para ello se ha construido el repositorio trajectory_control_node. 
+Para ello se ha construido el paquete trajectory_control_node. 
 
 # Configuración y ejecución del nodo trayectory_control_node
 1. Instalacion y configuración según: https://asantamarianavarro.gitlab.io/code/teaching/ris/ris_project_instructions/#installation
