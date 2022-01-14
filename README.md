@@ -16,7 +16,7 @@ Para ello se ha construido el repositorio trajectory_control_node.
 
 2. Descargar el repositorio trajectory_control_node y guardarlo en la dirección <YOUR_PATH>/ris_project_ws/src
 
-3. Construir el workspace
+3. Construir el paquete
 
    $ cd <YOUR_PATH>/ris_project_ws/src
 
